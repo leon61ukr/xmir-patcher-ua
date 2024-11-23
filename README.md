@@ -7,7 +7,7 @@ The main part remains in Russian. It was created for personal use to avoid relyi
 ## Instructions for Use
 ### Windows
 *  Run `run.bat` (or `!START.bat`).  
-   *(Optional: If you have changed the default IP address `192.168.31.1`, you will need to update it to match the router's new IP address.)*
+*  *(Optional: If you have changed the default IP address `192.168.31.1`, you will need to update it to match the router's new IP address.)*
 *  Run **step 2**.
 *  *(Optional: Create a backup using **step 4**.)*
 *  Run **step 5**.
