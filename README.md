@@ -11,6 +11,7 @@ The main part remains in Russian. It was created for personal use to avoid relyi
 2. Run **step 2**.
 3. *(Optional: Create a backup using **step 4**.)*
 4. Run **step 5**.
+5. Run **step 9 (reboot)** to close SSH.
 
 ### Linux / Mac OS
 
