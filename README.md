@@ -19,3 +19,5 @@ The main part remains in Russian. It was created for personal use to avoid relyi
 ---
 
 Feel free to modify or extend the translation as needed.
+
+Українізатор для Xiaomi BE3600
