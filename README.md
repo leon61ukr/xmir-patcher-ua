@@ -1,4 +1,5 @@
 # Partial Translation for Xiaomi BE3600 2.5G Setup (XMiR-Patcher)
+# Українізатор для Xiaomi BE3600
 
 This is a partial translation into Ukrainian based on the pre-existing file `data/base.ru.po`.  
 The main part remains in Russian. It was created for personal use to avoid relying on a translator during the setup of the Xiaomi BE3600 2.5G.
@@ -19,5 +20,3 @@ The main part remains in Russian. It was created for personal use to avoid relyi
 ---
 
 Feel free to modify or extend the translation as needed.
-
-Українізатор для Xiaomi BE3600
