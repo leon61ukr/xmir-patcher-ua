@@ -6,12 +6,12 @@ The main part remains in Russian. It was created for personal use to avoid relyi
 
 ## Instructions for Use
 ### Windows
-1. Run `run.bat` (or `!START.bat`).  
+*  Run `run.bat` (or `!START.bat`).  
    *(Optional: If you have changed the default IP address `192.168.31.1`, you will need to update it to match the router's new IP address.)*
-2. Run **step 2**.
-3. *(Optional: Create a backup using **step 4**.)*
-4. Run **step 5**.
-5. Run **step 9 (reboot)** to close SSH.
+*  Run **step 2**.
+*  *(Optional: Create a backup using **step 4**.)*
+*  Run **step 5**.
+*  Run **step 9 (reboot)** to close SSH.
 
 ### Linux / Mac OS
 
