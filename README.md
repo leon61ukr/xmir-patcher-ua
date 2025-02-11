@@ -1,23 +1,24 @@
 # Українізатор для Xiaomi BE3600
 
-Partial Translation for Xiaomi BE3600 2.5G Setup (XMiR-Patcher)
-This is a partial translation into Ukrainian based on the pre-existing file `data/base.ru.po`.  
-The main part remains in russian. It was created for personal use to avoid relying on a translator during the setup of the Xiaomi BE3600 2.5G.
+Це частковий переклад українською мовою на основі вже існуючого файлу `data/base.ru.po`..
+Частина меню залишається російською (можливо виправлю в майбутньому, якщо цей переклад буде користуватись популярністю). 
+Він був створений для особистого використання, щоб уникнути необхідності звертатися до перекладача під час налаштування Xiaomi BE3600 2.5G.
 
-## Instructions for Use
+## Інструкції з використання
 ### Windows
-*  Run `run.bat` (or `!START.bat`).  
-*  *(Optional: If you have changed the default IP address `192.168.31.1`, you will need to update it to match the router's new IP address.)*
-*  Run **step 2**.
-*  *(Optional: Create a backup using **step 4**.)*
-*  Run **step 5**.
-*  Run **step 9 (reboot)** to close SSH.
+*  Запустіть`run.bat` (або `!START.bat`).
+*  (Необов’язково: Якщо ви змінили стандартну IP-адресу 192.168.31.1, вам потрібно оновити її відповідно до нової IP-адреси роутера.)
+*  Запустіть **крок 2**.
+*  *(Необов’язково: Створіть резервну копію, використовуючи **крок 4**.)*
+*  Запустіть **крок 5**.
+*  Запустіть **крок 9 (перезавантаження)** щоб закрити SSH.
+
 
 ### Linux / Mac OS
 
-* Install python 3.8, openssl
-* Run `run.sh`
+* Встановіть python 3.8, openssl
+* Запустіть run.sh
+
 
 ---
-
-Feel free to modify or extend the translation as needed.
+Не соромтеся змінювати або доповнювати переклад за потреби.
